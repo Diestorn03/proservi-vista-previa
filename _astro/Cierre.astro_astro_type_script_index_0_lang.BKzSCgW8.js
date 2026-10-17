@@ -1,0 +1,1 @@
+import{t as e}from"./motion.DB4jisRZ.js";e(({gsap:e,desktop:t})=>{if(!t||!document.querySelector(`[data-iris]`))return;let n=e.fromTo(`[data-iris]`,{clipPath:`circle(0% at 82% 30%)`},{clipPath:`circle(150% at 82% 30%)`,ease:`none`,scrollTrigger:{trigger:`#cierre`,start:`top 90%`,end:`top 10%`,scrub:.6}});return()=>n.kill()});
