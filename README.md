@@ -1,5 +1,5 @@
-# Proservi · vista previa
+# Soluciones Proservi · sitio web
 
-Sitio compilado de la propuesta web para Soluciones Proservi, C.A. (Kindra Project). Es una vista previa: lleva `noindex` y no está aprobada por el cliente.
+Sitio compilado de Soluciones Proservi, C.A. (diseño y desarrollo: Kindra Project). El código fuente es privado: este repositorio solo contiene el resultado de `astro build`.
 
-El código fuente está en un repositorio privado; este repo solo contiene el resultado de `astro build` (lo publica `tools/publicar-vista-previa.sh`).
+Todos los derechos reservados. Software y tipografías de terceros: [`licencias.txt`](licencias.txt).
